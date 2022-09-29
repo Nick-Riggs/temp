@@ -11,50 +11,26 @@
   "spawnPoints": {
     "red": [
       {
-        "x": 21,
-        "y": 9,
+        "x": 13,
+        "y": 8,
         "radius": 5,
         "weight": 1
       },
       {
-        "x": 21,
-        "y": 17,
+        "x": 13,
+        "y": 16,
         "radius": 5,
         "weight": 1
       },
       {
-        "x": 21,
-        "y": 25,
+        "x": 27,
+        "y": 8,
         "radius": 5,
         "weight": 1
       },
       {
-        "x": 30,
-        "y": 9,
-        "radius": 5,
-        "weight": 1
-      },
-      {
-        "x": 30,
-        "y": 25,
-        "radius": 5,
-        "weight": 1
-      },
-      {
-        "x": 39,
-        "y": 9,
-        "radius": 5,
-        "weight": 1
-      },
-      {
-        "x": 39,
-        "y": 17,
-        "radius": 5,
-        "weight": 1
-      },
-      {
-        "x": 39,
-        "y": 25,
+        "x": 27,
+        "y": 16,
         "radius": 5,
         "weight": 1
       }
