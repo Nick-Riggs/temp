@@ -4,33 +4,104 @@
     "author": "Anonymous",
     "gameMode": "normal"
   },
-  "switches": {},
-  "fields": {},
+  "switches": {
+    "5,12": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 3,
+            "y": 10
+          }
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 11
+          }
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 13
+          }
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 14
+          }
+        }
+      ],
+      "timer": 0
+    },
+    "20,5": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 15,
+            "y": 3
+          }
+        },
+        {
+          "pos": {
+            "x": 25,
+            "y": 3
+          }
+        }
+      ],
+      "timer": 0
+    },
+    "35,12": {
+      "toggle": [
+        {
+          "pos": {
+            "x": 37,
+            "y": 10
+          }
+        },
+        {
+          "pos": {
+            "x": 37,
+            "y": 14
+          }
+        }
+      ],
+      "timer": 0
+    }
+  },
+  "fields": {
+    "3,10": {
+      "defaultState": "on"
+    },
+    "3,11": {
+      "defaultState": "on"
+    },
+    "3,13": {
+      "defaultState": "on"
+    },
+    "3,14": {
+      "defaultState": "on"
+    },
+    "15,3": {
+      "defaultState": "on"
+    },
+    "25,3": {
+      "defaultState": "on"
+    },
+    "37,10": {
+      "defaultState": "on"
+    },
+    "37,14": {
+      "defaultState": "on"
+    }
+  },
   "portals": {},
   "marsballs": [],
   "spawnPoints": {
     "red": [
       {
-        "x": 13,
-        "y": 8,
-        "radius": 5,
-        "weight": 1
-      },
-      {
-        "x": 13,
-        "y": 16,
-        "radius": 5,
-        "weight": 1
-      },
-      {
-        "x": 27,
-        "y": 8,
-        "radius": 5,
-        "weight": 1
-      },
-      {
-        "x": 27,
-        "y": 16,
+        "x": 20,
+        "y": 12,
         "radius": 5,
         "weight": 1
       }
